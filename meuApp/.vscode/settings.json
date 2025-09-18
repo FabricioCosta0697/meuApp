@@ -1,0 +1,32 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit",
+    "source.organizeImports": "explicit",
+    "source.sortMembers": "explicit"
+  },
+  "cSpell.words": [
+    "Aplica",
+    "Cadastrar",
+    "Cadastro",
+    "caracteres",
+    "completo",
+    "Conecta",
+    "conectafe",
+    "conta",
+    "Crie",
+    "deve",
+    "Erro",
+    "Faça",
+    "inválido",
+    "máscara",
+    "mínimo",
+    "mobileprovision",
+    "numéricos",
+    "preencha",
+    "realizado",
+    "senha",
+    "Sucesso",
+    "Telefone",
+    "Tipo"
+  ]
+}
